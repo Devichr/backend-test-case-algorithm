@@ -1,0 +1,29 @@
+alphabet-reverse.js
+
+Tujuan algoritma ini adalah untuk melakukan reverse pada huruf tanpa mengubah angka
+
+Output :
+Hasil reverse dari  NEGIE1  adalah EIGEN1
+-----------------------------------------------
+longest-word.js
+
+Tujuan algoritma ini adalah menghitung kata terpanjang pada suatu kalimat
+
+Output :
+Kata terpanjang adalah mengerjakan: 11 character
+-----------------------------------------------
+input-count.js
+
+Tujuan algoritma ini adalah mencari jumlah berapa kali sebuah kata muncul di input berdasarkan query
+
+Output :
+[1,0,2] input memiliki 1 bbb, 0 ac, 2 dz
+-----------------------------------------------
+matrix-difference.js
+
+Tujuan algoritma ini adalah mencari selisih dari jumlah angka diagonal pada suatu matrix
+
+Output :
+Diagonal pertama: 1+5+9 = 15
+Diagonal kedua: 0+5+7 = 12
+Selisih dua diagonal: 15 - 12 = 3
